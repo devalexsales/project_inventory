@@ -20,7 +20,7 @@ import com.inventory.model.Product;
 
 public class InventoryView extends JFrame {
 	
-	private InventoryController controller;
+	private InventoryController controller; 
 	private AddInventoryPanel addInventory;
 	private UpdateInventoryPanel updateInventory;
 	private ListInventoryPanel listInventory;

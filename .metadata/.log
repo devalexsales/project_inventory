@@ -1,0 +1,19 @@
+!SESSION 2011-11-24 21:14:55.515 -----------------------------------------------
+eclipse.buildId=I20110613-1736
+java.version=1.6.0_21
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product -data d:\gitworkspace3.7 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2011-11-24 21:15:05.078
+!MESSAGE Both 'org.maven.ide.eclipse.maven_model_edit' and 'org.eclipse.m2e.model.edit' register a package for 'http://maven.apache.org/POM/4.0.0'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2011-11-24 21:15:05.093
+!MESSAGE Both 'org.maven.ide.eclipse.maven_model_edit' and 'org.eclipse.m2e.model.edit' register an extension parser for 'pom'
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2011-11-24 21:15:14.546
+!MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.5.5.r37v201110112027
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2011-11-24 21:16:08.390
+!MESSAGE Registering: com.google.gwt.eclipse.sdkbundle_2.4.0.relr37v201110112027

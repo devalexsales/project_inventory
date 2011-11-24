@@ -1,0 +1,33 @@
+package com.inventory.controllers;
+
+import com.inventory.dao.InventoryDao;
+import com.inventory.dao.InventoryDaoImpl;
+import com.inventory.model.Product;
+import com.views.InventoryView;
+
+public class InventoryControllerImpl implements InventoryController {
+	
+	private InventoryDao dao;
+	private InventoryView view;
+	
+    public InventoryControllerImpl(){
+    	this.dao = new InventoryDaoImpl();
+    }
+    
+	public void setView(InventoryView view) {
+		this.view = view;
+	}
+
+	@Override
+<<<<<<< .mine
+	public void addItem(Product product) 
+	{
+
+=======
+	public void addItem(Product product) {
+		//codes
+		
+>>>>>>> .r6
+	}
+
+}
